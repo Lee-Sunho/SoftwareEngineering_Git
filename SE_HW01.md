@@ -183,7 +183,7 @@ ex)
 >\* Without the backslash, this would be a bullet in an unordered list.  
 
 백 슬래시로 탈출할 수 있는 문자들은 다음과 같다.  
-![escapecharacter](./escapecharacter.png)
+![escapecharacter](./escapecharacter.PNG)
 
 <br>
 
@@ -200,5 +200,4 @@ https://github.com/Lee-Sunho/SoftwareEngineering.git
 
 깃허브에 GFM의 Markdown 확장에 관한 글을 올려 놓았다.
 
-수정: second_1 
-추가: second_1_1 
+최종 수정: 2021-05-08
